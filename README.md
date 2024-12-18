@@ -1,4 +1,3 @@
-Sure! Here's the README with instructions for using the API with **Postman** in **English**.
 
 ---
 
